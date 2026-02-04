@@ -17,7 +17,7 @@
 <a href="#"><img src="https://img.shields.io/badge/license-Professional%20Edition-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
-<img src="https://play-lh.googleusercontent.com/SkVQu_JUUj2qxTLbKhjxeULWTFLL0MxgT4YFCWRLOdeGMz3RlSIqycdyYFF_uMMh6Q=w526-h296-rw" width="824" alt="Screenshot"/>
+<img src="https://jostle.me/assets/build/images/mobile/mobile-ipad.jpg" width="824" alt="Screenshot"/>
 
 </div>
 
